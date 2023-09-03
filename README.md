@@ -1,4 +1,4 @@
-#Hello there!
+Hello there!
 
 Welcome to my GitHub page! In short, I'm a freelance smart contract engineer with experience in Solidity, Vyper, Foundry, ApeWorX, etc. ;)
 
